@@ -25,9 +25,13 @@ On my own projects I also build backend services with **Node.js**, **PostgreSQL*
 
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,angular)](https://skillicons.dev)
 
-**Backend & Database**
+**Backend**
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,sqlite,prisma,sequelize)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+
+**Database & ORM**
+
+[![Database](https://skillicons.dev/icons?i=postgres,mysql,sqlite,prisma,sequelize)](https://skillicons.dev)
 
 **Tools**
 
