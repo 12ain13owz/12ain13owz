@@ -37,10 +37,6 @@ On my own projects I also build backend services with **Node.js**, **PostgreSQL*
 
 [![Familiar](https://skillicons.dev/icons?i=nextjs,redis)](https://skillicons.dev)
 
-## 🎓 Education
-
-**B.B.A. in Business Computer** — Bansomdejchaopraya Rajabhat University · GPA 3.74
-
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-touchfn%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:touchfn@gmail.com)
