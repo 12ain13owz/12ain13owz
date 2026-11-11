@@ -1,34 +1,48 @@
-Hi 👋 My name is Phaiboon Withanthamrong
-========================================
+# Hi, I'm Phaiboon Withanthamrong 👋
 
-Full Stack Developer
------------------
+**Frontend Developer** · Angular · TypeScript · Node.js — based in Bangkok, Thailand 🇹🇭
 
-I've been learning Angular and NodeJS
+I build production web apps with **Angular** and **TypeScript**, turning tickets and UI designs into
+interfaces that match the spec, and working closely with backend teams on the APIs behind them.
+On my own projects I also build backend services with **Node.js**, **PostgreSQL** and **Prisma**.
 
-* 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [My Portfolio](http://portfolio-29c5f.web.app/)
-* ✉️  You can contact me at [touchfn@gmail.com](mailto:touchfn@gmail.com)
-* 🧠  I'm learning a new framework
+## 💼 Experience
 
-### Skills
+**Junior Frontend Developer — Varidentech** · _Mar 2025 – Sep 2026_
+- **Videcoot** — AI-powered asynchronous video interview platform (in-house product).
+  Built and maintained frontend features, UI components and pages in Angular + TypeScript.
+- **CloudNurse** — Platform for managing elderly care centers (client project).
+  Shipped features and bug fixes from tickets and design handoffs, and coordinated API changes
+  with the backend team.
 
+**Programmer — Safety Insurance** · _May 2014 – Jan 2018_
+- Built and maintained organization-wide internal systems (OpenEdge ABL, Lotus Notes),
+  from requirements analysis to deployment and user support.
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+## 🛠️ Tech Stack
 
+**Frontend**
 
-### Socials
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,angular)](https://skillicons.dev)
 
-<p align="left"> <a href="https://www.github.com/12ain13owz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+**Backend & Database**
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,sqlite,prisma,sequelize)](https://skillicons.dev)
+
+**Tools**
+
+[![Tools](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
+
+**Familiar with**
+
+[![Familiar](https://skillicons.dev/icons?i=nextjs,redis)](https://skillicons.dev)
+
+## 🎓 Education
+
+**B.B.A. in Business Computer** — Bansomdejchaopraya Rajabhat University · GPA 3.74
+
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-touchfn%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:touchfn@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-12ain13owz-181717?style=flat&logo=github&logoColor=white)](https://github.com/12ain13owz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat&logo=firebase&logoColor=white)](http://portfolio-29c5f.web.app/)
